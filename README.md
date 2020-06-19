@@ -25,7 +25,7 @@ We based our models in the models uploaded in the following repository: [PyTorch
 
 ## Code
 
-Our code was made in a .ipynb worked on Google Collaborate. See: [code]()
+Our code was made in a .ipynb working in Google Collaborate. See: [code]()
 
 ## Results: 
 

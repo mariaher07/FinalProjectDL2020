@@ -21,18 +21,3 @@ Theoretically, as the dataset is made of: text sequences (reviews) and a label w
 
 We based our models in the models uploaded in the following repository: https://github.com/bentrevett/pytorch-sentiment-analysis
 
-This is how we proceeded: 
-
-  ## Preparation of dataset
-  
-  Divide our initial dataset into: 
-  
-  - Training Set
-  
-  - Validation Set
-  
-  - Test Set
-  
-  We convert every subset into type Dataset, of TorchText, to be able to process natural language ( which have presence in the reviews).
-  
-  We build the vocabulary our models will have, which is take from vector "glove.6B.100d"

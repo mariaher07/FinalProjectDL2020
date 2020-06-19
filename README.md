@@ -15,6 +15,8 @@ This project was developed by:
 
 Dataset used: [Restaurant Customer Reviews, Kaggle](https://www.kaggle.com/vigneshwarsofficial/reviews)
 
+To download from [here](https://github.com/mariaher07/FinalProjectDL2020/blob/master/Restaurant_Reviews.csv)
+
 The aim of the project is to train two different Neural Networks: CNN and RNN. 
 
 Theoretically, as the dataset is made of: text sequences (reviews) and a label whether it is a positive or negative review (1 and 0 respectively), we had a first hypothesis that RNN model would get better results, a higher accuracy.

@@ -49,4 +49,4 @@ Considering both results, we reach the conclusion that the dataset used is not a
 
 
 
-Further explanation on the project is obtained in here: [slides](https://github.com/mariaher07/FinalProjectDL2020/blob/master/Deep_Learning%20-%20Final%20Project.pdf)
+Further explanation on the project is obtained in these [slides](https://github.com/mariaher07/FinalProjectDL2020/blob/master/Deep_Learning%20-%20Final%20Project.pdf)

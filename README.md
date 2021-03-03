@@ -45,7 +45,7 @@ After preparing dataset and configuring the models we obtained the following res
 
 Our hypothesis is dismissed, as our idea was that we should obtain a better result for the RNN model (as theoretically it is better for text sequences, which keep a relation between the different words that appear).
 
-Considering both results, we reach the conclusion that the dataset used is not a suitable one to obtain a good result in our project. Processing text is tough task, due to the complexity of speech: pragmatics, how context affect on the text, irony, etc. And a dataset consisting of 1000 samples is not enough for the model to learn these difficulties of speech processing.
+Considering both results, we reach the conclusion that the dataset used is not a suitable one to obtain a good result in our project. Processing text is tough task due to the complexity of speech: pragmatics, how context affect on the text, irony, etc. And a dataset consisting of 1000 samples is not enough for the model to learn these difficulties of speech processing.
 
 
 
